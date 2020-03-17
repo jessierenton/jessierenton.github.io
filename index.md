@@ -16,10 +16,20 @@ Email: jessica.renton.16 \[at\] ucl.ac.uk
 ## Research
 
 ## Publications
+\[1\] Jessie Renton and Karen M. Page. The effect of contact inhibition on the evolution of cooperation in epithelia. In progress.
+
+\[2\] Jessie Renton and Karen M. Page. [Evolution of cooperation in an epithelium](https://royalsocietypublishing.org/doi/10.1098/rsif.2018.0918). Journal of
+the Royal Society Interface, 16:20180918, 2019. 
 
 ## Presentations
+- Jul. 2019. Society of mathematical biology, University of Montreal. [Poster](https://jessiesrr.github.io/SMB2019Poster.pdf).
+- Mar. 2019. Institute for the Physics of Living Systems meet-up, University College London. [Talk](https://jessiesrr.github.io/IPLS2019Talk.pdf).
+- Jul. 2018. Mathematical models in ecology and evolution, City, University of London. Poster.
 
 ## Teaching
+
+At UCL I have taught first-year applied maths tutorials (2017-18) covering content from 
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
