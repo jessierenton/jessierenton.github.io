@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+Email: jessica \[dot\] renton \[dot\] 16 \[@\] ucl \[dot\] ac \[dot\] uk
 
-You can use the [editor on GitHub](https://github.com/jessiesrr/jessiesrr.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+_Department of Mathematics_
+_University College London_
+_Gower St_
+_London WC1E 6BT_
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a PhD student studying mathematical biology under the supervision of [Prof. Karen Page](https://www.ucl.ac.uk/~ucackmp/).
 
 ### Markdown
 
