@@ -1,3 +1,9 @@
+---
+layout: page
+title: Jessie Renton
+tagline: PhD Student in Mathematical Biology
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jessiesrr/jessiesrr.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
