@@ -1,9 +1,9 @@
-Email: jessica \[dot\] renton \[dot\] 16 \[@\] ucl \[dot\] ac \[dot\] uk
-
-_Department of Mathematics_\
-_University College London_\
-_Gower St_\
+_Department of Mathematics_  
+_University College London_  
+_Gower St_  
 _London WC1E 6BT_
+
+Email: jessica \[dot\] renton \[dot\] 16 \[@\] ucl \[dot\] ac \[dot\] uk
 
 I am a PhD student studying mathematical biology under the supervision of [Prof. Karen Page](https://www.ucl.ac.uk/~ucackmp/).
 
