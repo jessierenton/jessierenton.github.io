@@ -2,6 +2,8 @@
 
 I am a PhD student studying mathematical biology under the supervision of [Prof. Karen Page](https://www.ucl.ac.uk/~ucackmp/). You can see my [CV](https://jessiesrr.github.io/CV.pdf) here.
 
+[Research](#research) - [Publications](#publications) - [Presentations](#presentations) - [Teaching](#teaching)
+
 ### Contact details
 
 _Department of Mathematics_  
@@ -11,8 +13,13 @@ _London WC1E 6BT_
 
 Email: jessica.renton.16 \[at\] ucl.ac.uk
 
-[Research](https://jessiesrr.github.io/research) - [Publications](https://jessiesrr.github.io/publications) - [Presentations](https://jessiesrr.github.io/presentations) - [Teaching](https://jessiesrr.github.io/teaching)
+## Research
 
+## Publications
+
+## Presentations
+
+## Teaching
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
