@@ -14,6 +14,7 @@ _London WC1E 6BT_
 Email: jessica.renton.16 \[at\] ucl.ac.uk
 
 ## Research
+My current research is focussed on Evolutionary Game Theory, with applications to cancer evolution. 
 
 ## Publications
 1. Jessie Renton and Karen M. Page. The effect of contact inhibition on the evolution of cooperation in epithelia. In progress.
@@ -28,5 +29,5 @@ the Royal Society Interface, 16:20180918, 2019.
 
 ## Teaching
 
-At UCL I have taught first-year applied maths tutorials (2017-18) covering content from 
+At UCL I have taught first-year applied maths tutorials (2017-18) covering content from Applied Maths, Mathematical Methods I & II, and Newtonian Mechanics. I have also taught introductory python computer labs as part of Mathematical Methods I (2016-19). I have done marking for various courses including Biomathematics and Mathematical Methods I & II. 
 
