@@ -25,7 +25,9 @@ the Royal Society Interface, 16:20180918, 2019.
 ## Presentations
 - Jul. 2019. Society of mathematical biology, University of Montreal. [Poster](https://jessiesrr.github.io/poster.pdf).
 - Mar. 2019. Institute for the Physics of Living Systems meet-up, University College London. Talk.
+- Oct. 2018. Mathematics Postgraduate Seminar, University College London. Talk.
 - Jul. 2018. Mathematical models in ecology and evolution, City, University of London. Poster.
+- Apr. 2018. Mathematics Postgraduate Seminar, University College London. Talk.
 
 ## Teaching
 
