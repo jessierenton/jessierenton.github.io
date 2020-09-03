@@ -1,6 +1,6 @@
 ## About me
 
-I am a PhD student studying mathematical biology under the supervision of [Prof. Karen Page](https://www.ucl.ac.uk/~ucackmp/). You can see my [CV](https://jessiesrr.github.io/JRenton_CV.pdf) here.
+I am a PhD student studying mathematical biology under the supervision of [Prof. Karen Page](https://www.ucl.ac.uk/~ucackmp/). You can see my [CV](https://jessierenton.github.io/JRenton_CV.pdf) here.
 
 [Research](#research) - [Publications](#publications) - [Presentations](#presentations) - [Teaching](#teaching)
 
@@ -23,7 +23,7 @@ My current research is focussed on Evolutionary Game Theory, with applications t
 the Royal Society Interface, 16:20180918, 2019. 
 
 ## Presentations
-- Jul. 2019. Society of mathematical biology, University of Montreal. [Poster](https://jessiesrr.github.io/poster.pdf).
+- Jul. 2019. Society of mathematical biology, University of Montreal. [Poster](https://jessierenton.github.io/poster.pdf).
 - Mar. 2019. Institute for the Physics of Living Systems meet-up, University College London. Talk.
 - Oct. 2018. Mathematics Postgraduate Seminar, University College London. Talk.
 - Jul. 2018. Mathematical models in ecology and evolution, City, University of London. Poster.
