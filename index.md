@@ -1,6 +1,6 @@
 ## About me
 
-I am a PhD student studying mathematical biology under the supervision of [Prof. Karen Page](https://www.ucl.ac.uk/~ucackmp/). You can see my [CV](https://jessiesrr.github.io/CV.pdf) here.
+I am a PhD student studying mathematical biology under the supervision of [Prof. Karen Page](https://www.ucl.ac.uk/~ucackmp/). You can see my [CV](https://jessiesrr.github.io/JRenton_CV.pdf) here.
 
 [Research](#research) - [Publications](#publications) - [Presentations](#presentations) - [Teaching](#teaching)
 
