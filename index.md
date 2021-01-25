@@ -23,6 +23,7 @@ My current research is focussed on Evolutionary Game Theory, with applications t
 the Royal Society Interface, 16:20180918, 2019. 
 
 ## Presentations
+- Nov. 2020. London Mathematical Society Virtual Graduate Student Meeting. Talk.
 - Jul. 2019. Society of mathematical biology, University of Montreal. [Poster](https://jessierenton.github.io/poster.pdf).
 - Mar. 2019. Institute for the Physics of Living Systems meet-up, University College London. Talk.
 - Oct. 2018. Mathematics Postgraduate Seminar, University College London. Talk.
