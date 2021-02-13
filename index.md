@@ -14,10 +14,10 @@ _London WC1E 6BT_
 Email: jessica.renton.16 \[at\] ucl.ac.uk
 
 ## Research
-My current research is focussed on Evolutionary Game Theory, with applications to cancer evolution. 
+My current research is focussed on evolutionary game theory, with applications to cancer evolution. 
 
 ## Publications
-1. Jessie Renton and Karen M. Page. Cooperative success in epithelial public goods games. In preparation.
+1. Jessie Renton and Karen M. Page. [Cooperative success in epithelial public goods games](https://arxiv.org/abs/2101.11277). arXiv preprint, 2021.
 
 2. Jessie Renton and Karen M. Page. [Evolution of cooperation in an epithelium](https://royalsocietypublishing.org/doi/10.1098/rsif.2018.0918). Journal of
 the Royal Society Interface, 16:20180918, 2019. 
