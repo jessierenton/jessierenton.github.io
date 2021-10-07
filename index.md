@@ -1,20 +1,20 @@
 ## About me
 
-I am a PhD student studying mathematical biology under the supervision of [Prof. Karen Page](https://www.ucl.ac.uk/~ucackmp/). You can see my [CV](https://jessierenton.github.io/JRenton_CV.pdf) here.
+Currently, I am a postdoc in Benjamin Werner's group at the Barts Cancer Institute. I recently obtained my PhD in mathematical biology from UCL, under the supervision of [Prof. Karen Page](https://www.ucl.ac.uk/~ucackmp/). Prior to that I completed my MPhys in mathematical physics at the University of Edinburgh in 2016. You can see my [CV](https://jessierenton.github.io/JRenton_CV.pdf) here. I am broadly interested in using mathematical and computational methods to model biological and social systems, in particular evolutionary processes.
 
 [Research](#research) - [Publications](#publications) - [Presentations](#presentations) - [Teaching](#teaching)
 
 ### Contact details
 
-_Department of Mathematics_  
-_University College London_  
-_Gower St_  
-_London WC1E 6BT_
+_Barts Cancer Institute_  
+_Queen Mary, Univeristy of London_  
+_Charterhouse Square_  
+_London EC1M 6BQ_
 
-Email: jessica.renton.16 \[at\] ucl.ac.uk
+Email: j.renton \[at\] qmul.ac.uk
 
 ## Research
-My current research is focussed on evolutionary game theory, with applications to cancer evolution. 
+My PhD research was focussed on evolutionary game theory, with applications to cancer evolution. 
 
 ## Publications
 1. Jessie Renton and Karen M. Page. [Cooperative success in epithelial public goods games](https://doi.org/10.1016/j.jtbi.2021.110838). Journal of Theoretical Biology, 528:110838, 2021 ([pdf](https://jessierenton.github.io/accepted_version.pdf)).
