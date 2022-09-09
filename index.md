@@ -1,6 +1,6 @@
 ## About me
 
-Currently, I am a postdoc in the Evolutionary Dynamics group led by Benjamin Werner in the Centre for Cancer Genomics and Computational Biology at the Barts Cancer Institute. 
+Currently, I am a postdoc in the Evolutionary Dynamics group led by Benjamin Werner at the Centre for Cancer Genomics and Computational Biology, Barts Cancer Institute. 
 
 I obtained my PhD in mathematical biology from UCL in 2021, under the supervision of [Prof. Karen Page](https://www.ucl.ac.uk/~ucackmp/). Prior to that I completed my MPhys in mathematical physics at the University of Edinburgh in 2016. You can see my [CV](https://jessierenton.github.io/JRenton_CV.pdf) here. I am broadly interested in using mathematical and computational methods to model biological and social systems, in particular evolutionary processes.
 
