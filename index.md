@@ -27,13 +27,14 @@ My PhD research was focussed on evolutionary game theory, with applications to c
 the Royal Society Interface, 16:20180918, 2019 ([pdf](https://jessierenton.github.io/rsif.2018.0918.pdf)).
 
 ## Presentations
-- Jul. 2022. Mathematical models in ecology and evolution, University of Reading. Talk.
+- Sep. 2022. European Conference on Mathematical and Theoretical Biology, Heidelberg. [Poster](https://jessierenton.github.io/ecmtb_poster.pdf).
+- Jul. 2022. Mathematical Models in Ecology and Evolution, University of Reading. Talk.
 - Jul. 2022. SIAM Life Sciences. Talk.
 - Nov. 2020. London Mathematical Society Virtual Graduate Student Meeting. Talk.
-- Jul. 2019. Society of mathematical biology, University of Montreal. [Poster](https://jessierenton.github.io/poster.pdf).
+- Jul. 2019. Society of Mathematical Biology, University of Montreal. [Poster](https://jessierenton.github.io/poster.pdf).
 - Mar. 2019. Institute for the Physics of Living Systems meet-up, University College London. Talk.
 - Oct. 2018. Mathematics Postgraduate Seminar, University College London. Talk.
-- Jul. 2018. Mathematical models in ecology and evolution, City University of London. Poster.
+- Jul. 2018. Mathematical Models in Ecology and Evolution, City University of London. Poster.
 - Apr. 2018. Mathematics Postgraduate Seminar, University College London. Talk.
 
 ## Teaching
